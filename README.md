@@ -16,6 +16,7 @@ Utilize various [Git commands] to clone and fork repositories, as well as commit
    - Commit
    - Push
    - Pull
+   -
 Explain how branches are used and describe pull requests.
 Describe the function of Git commands like push, pull, and fetch.
 Differentiate between cloning and forking GitHub projects.
