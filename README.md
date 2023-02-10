@@ -19,10 +19,10 @@ Utilize various [Git commands] to clone and fork repositories, as well as commit
    - Push
    - Pull
    
-Explain how branches are used and describe pull requests.
-Describe the function of Git commands like push, pull, and fetch.
-Differentiate between cloning and forking GitHub projects.
-List the roles common in large projects.
-Create GitHub branches and perform merge operations using the GitHub Web interface.
-Execute Git commands to work with GitHub repositories from a terminal.
-Create a fork and clone of a GitHub repository, make code changes, and submit a pull request.
+-Explain how branches are used and describe pull requests.
+-Describe the function of Git commands like push, pull, and fetch.
+-Differentiate between cloning and forking GitHub projects.
+-List the roles common in large projects.
+-Create GitHub branches and perform merge operations using the GitHub Web interface.
+-Execute Git commands to work with GitHub repositories from a terminal.
+-Create a fork and clone of a GitHub repository, make code changes, and submit a pull request.
