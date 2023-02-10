@@ -7,6 +7,7 @@ Repositories are storage structures that:
 3. Enable you to collaborate with others
 
 Git is one of the most popular distributed version control systems. GitHub, GitLab and Bitbucket are examples of hosted version control systems.
+
 # using Git Commands and Managing GitHub Projects
 Branches are the heart of workflows in Git-based version control systems like GitHub. 
 Creating and using branches, and merging changes to the main branch with "Pull Requests". 
