@@ -1,2 +1,2 @@
 # vib-aws
-This is git repository for vib aws
+ Git: open-source version control 
