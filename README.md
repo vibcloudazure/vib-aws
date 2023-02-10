@@ -12,11 +12,12 @@ Branches are the heart of workflows in Git-based version control systems like Gi
 Creating and using branches, and merging changes to the main branch with "Pull Requests". 
 Git Commands: Working with GitHub repositories and automating workflows, using the web interface can be limiting and more time-consuming. 
 Utilize various [Git commands] to clone and fork repositories, as well as commit, push and pull your changes using the command line : 
+
    - Various Git commands to clone and fork repositories
    - Commit
    - Push
    - Pull
-   -
+   
 Explain how branches are used and describe pull requests.
 Describe the function of Git commands like push, pull, and fetch.
 Differentiate between cloning and forking GitHub projects.
